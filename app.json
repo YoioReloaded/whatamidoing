@@ -1,0 +1,20 @@
+{
+  "name": "whatamidoing",
+  "description": "Seriously, what am I doing!?",
+  "scripts": {
+  },
+  "env": {
+    "DEBUG": "true",
+    "USELESS": {
+      "generator": "secret"
+    }
+  },
+  "formation": {
+  },
+  "addons": [
+
+  ],
+  "buildpacks": [
+
+  ]
+}
