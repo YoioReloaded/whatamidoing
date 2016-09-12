@@ -1,6 +1,9 @@
 {
   "name": "whatamidoing",
   "description": "Seriously, what am I doing!?",
+  "keywords": [],
+  "logo": "",
+  "image": "",
   "scripts": {
   },
   "env": {
@@ -12,9 +15,7 @@
   "formation": {
   },
   "addons": [
-
   ],
   "buildpacks": [
-
   ]
 }

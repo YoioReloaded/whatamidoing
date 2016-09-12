@@ -1,0 +1,21 @@
+body {
+    background-color: gray;
+    font-family: sans-serif;
+    font-weight: bold;
+    font-size: 1.2em;
+    color: white;
+}
+
+p, img {
+    display: block;
+    margin: auto;
+}
+
+p {
+    text-align: center;
+}
+
+img {
+    width: 10%;
+    max-width: 100px;
+}

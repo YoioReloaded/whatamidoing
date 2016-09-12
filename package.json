@@ -1,0 +1,36 @@
+{
+  "name": "what-am-i-doing",
+  "version": "0.0.0",
+  "description": "Seriously, what am I doing!?",
+  "engines": {
+    "node": "6.5.0"
+  },
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "express": "*"
+  },
+  "devDependencies": {
+    "gulp": "*"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/YoioReloaded/whatamidoing.git"
+  },
+  "keywords": [
+    "node",
+    "task",
+    "todo",
+    "planner",
+    "time",
+    "track"
+  ],
+  "author": "YoioReloaded",
+  "bugs": {
+    "url": "https://github.com/YoioReloaded/whatamidoing/issues"
+  },
+  "homepage": "https://github.com/YoioReloaded/whatamidoing#readme"
+}
